@@ -9,8 +9,10 @@
 You can install the package directly from GitHub using the `devtools` package:
 
 ```r
-# Install devtools if you haven't already
-install.packages("devtools")
+# Install devtools if you haven't already and copy the .gz file in ur environment and run this code
+install.packages("RegressionHelper_1.0.0.tar.gz")
 
-# Install RegressionHelper from GitHub
-devtools::install_github("paulibzhan/RegressionHelper")
+#Then run
+library(RegressionHelper)
+
+
