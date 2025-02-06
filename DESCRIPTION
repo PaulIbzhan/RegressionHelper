@@ -1,0 +1,17 @@
+Package: RegressionHelper
+Type: Package
+Title: Basic Regression Analysis Functions
+Version: 1.0.0
+Author: Paul Ibzhan JB Cre and Aut
+Maintainer: Paul Ibzhan JB <paulibzhansjit@Gmail.com>
+Description: A comprehensive package that offers essential regression functions,
+    including simple linear regression, multiple linear regression, polynomial 
+    regression, stepwise regression, and generalized linear models. All functions 
+    are implemented using only base R, making them lightweight and easy to use 
+    for data analysts and researchers.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

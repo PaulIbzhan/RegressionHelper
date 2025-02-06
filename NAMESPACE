@@ -1,0 +1,5 @@
+export(simple_linear_regression)
+export(multiple_linear_regression)
+export(polynomial_regression)
+export(glm_regression)
+
