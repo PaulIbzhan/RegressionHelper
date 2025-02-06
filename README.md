@@ -13,4 +13,4 @@ You can install the package directly from GitHub using the `devtools` package:
 install.packages("devtools")
 
 # Install RegressionHelper from GitHub
-devtools::install_github("your_username/RegressionHelper")
+devtools::install_github("paulibzhan/RegressionHelper")
